@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CMPE252_HW2.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CMPE252_HW2.dir/objects.a @CMakeFiles\CMPE252_HW2.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\CMPE252_HW2.dir/objects.a -Wl,--no-whole-archive -o CMPE252_HW2.exe -Wl,--out-implib,libCMPE252_HW2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CMPE252_HW2.dir\linklibs.rsp
