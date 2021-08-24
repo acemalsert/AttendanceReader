@@ -1,3 +1,0 @@
-C:/Users/ACS/CLionProjects/CMPE252 HW2/cmake-build-debug/CMakeFiles/CMPE252_HW2.dir
-C:/Users/ACS/CLionProjects/CMPE252 HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ACS/CLionProjects/CMPE252 HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
